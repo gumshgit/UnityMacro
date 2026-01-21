@@ -1,0 +1,16 @@
+#フォルダごと除外
+Project/Library/
+Project/Temp/
+Project/Obj/
+Project/Build/
+Project/Logs/
+Project/UserSettings/
+
+#ローカル作業用
+Project/Assets/Local/
+Project/Assets/Local.meta
+
+#VisualStudio関連
+.vs/
+*.csproj
+*.sln
