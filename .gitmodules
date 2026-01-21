@@ -1,0 +1,3 @@
+[submodule "Project/Assets/GmshLib"]
+	path = Project/Assets/GmshLib
+	url = https://github.com/gumshgit/GmshLib.git
